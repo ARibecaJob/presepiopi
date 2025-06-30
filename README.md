@@ -126,3 +126,6 @@ journalctl -u presepiopi.service -b
 sudo systemctl disable presepiopi.service
 ```
 
+## Extra
+The `support` folder contains two sources: one for testing the button functionality and one for generating an audio file.  
+*La cartella `support` contiene due sorgenti: uno per testare il funzionamento del pulsante e uno per generare un file audio.*
