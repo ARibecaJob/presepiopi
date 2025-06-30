@@ -1,7 +1,7 @@
 # nativitypi / presepiopi
-A light control system for nativity scenes using Raspberry Pi and Waveshare 8-ch Relay Expansion Board
+A light control system for nativity scenes using Raspberry Pi and [Waveshare 8-ch Relay Expansion Board](https://www.waveshare.com/rpi-relay-board-b.htm)
 
-*Sistema di controllo luci per presepe tramite Raspberry Pi e Waveshare 8-ch Relay Expansion Board*
+*Sistema di controllo luci per presepe tramite Raspberry Pi e [Waveshare 8-ch Relay Expansion Board](https://www.waveshare.com/rpi-relay-board-b.htm)*
 
 ## Description / Descrizione
 **presepiopi** is an application developed to manage the progressive activation of lights in a nativity scene using 8 relays controlled by a Raspberry Pi.
